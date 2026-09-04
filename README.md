@@ -36,6 +36,7 @@
 ### App Store apps Using Expo
 
 - [Li.st](https://li.st/) - Twitter for lists of things
+- [Orano AI](https://oranoai.com/) - Turns saved Reels, videos, and links into action plans and learning roadmaps | [iOS](https://apps.apple.com/us/app/orano-ai/id6791454509) | [Android](https://play.google.com/store/apps/details?id=com.oranoai.app)
 
 ### Demos
 
